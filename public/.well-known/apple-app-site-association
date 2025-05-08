@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "details": [{
+      "appIDs": ["78U3X38B3F.com.hellogoodman.friday2"],
+      "components": [{
+        "/": "/*",
+        "comment": "Matches any url with a path starting with / "
+      }]
+    }]
+  }
+} 

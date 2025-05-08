@@ -1,0 +1,13 @@
+.arrow {
+  align-self: center;
+  margin-left: -5px;
+  margin-top: -150px;
+}
+
+@media (max-width: 600px) {
+  .arrow {
+    width: 55px !important;
+    height: 35px !important;
+    margin-top: -50px !important;
+  }
+} 
